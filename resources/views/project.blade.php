@@ -1,3 +1,11 @@
 @extends('layouts.main')
 
-<div id="map" style="width: 100%; height: 100%; position:fixed">@yield('peta')</div>
+<!-- ======= About Section ======= -->
+<section id="project">
+
+    <div id="map" style="width: 100%; height: 100%; position:fixed"></div>
+
+    </div>
+
+    </div>
+</section><!-- End About Section -->

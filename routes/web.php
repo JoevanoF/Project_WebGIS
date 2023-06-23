@@ -20,7 +20,7 @@ Route::get('/', function () {
 });
 Route::get('/project', function () {
     return view('project', [
-        "title" => "project"
+        "title" => "Project"
     ]);
 });
 Route::get('/about', function () {
