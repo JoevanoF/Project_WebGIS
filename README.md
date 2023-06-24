@@ -1,4 +1,4 @@
-<h1><align="center">WEBGIS</h1>
+<h1><center>WEBGIS</center></h1>
 
 ## About Laravel
 
