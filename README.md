@@ -7,8 +7,12 @@ Project ini merupakan Web berbasis GIS yang dibuat dengan menggunakan framework 
 ## How to used?
 
 1. Buat folder baru pada device mu.
-2. cloning project pada folder yang telah dibuat dengan cara, ketik "git clone https://github.com/Rigidsetya/Project_WebGIS" pada terminal di device mu.
-3.
+2. cloning project pada folder yang telah dibuat dengan cara, ketik "git clone https://github.com/Rigidsetya/Project_WebGIS.git" pada terminal di device mu.
+3. selanjutnya buat file baru dengan nama ".env" pada direktori hasil clone. kemudian pergi ke file ".env.example" lalu copas semua isinya kedalam file ".env"
+4. setelah itu, buka Git Bash lalu ketik "composer install" di direktori project laravelnya. ENTER.
+5. setelah selesai, kemudian ketik "php artisan key:generate". ENTER.
+6. setelah itu lalu ketik "php artisan serve". ENTER. <br>
+   ENJOY FOR CODING
 
 ## Laravel Sponsors
 

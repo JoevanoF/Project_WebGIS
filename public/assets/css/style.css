@@ -1,14 +1,3 @@
-/**
-* Template Name: Regna
-* Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
     background: #fff;
     color: #666666;
@@ -90,6 +79,7 @@ h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+
 #header {
     height: 90px;
     transition: all 0.5s;
@@ -109,12 +99,12 @@ h6 {
 
 #header #logo h1 a,
 #header #logo h1 a:hover {
-    color: #fff;
+    color: limegreen;
 }
 
-#header #logo img {
-    padding: 0;
-    margin: 0;
+#header #logo h1 a img {
+    width: 40px;
+    height: 40px;
 }
 
 #header.header-transparent {
