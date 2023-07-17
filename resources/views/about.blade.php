@@ -1,38 +1,82 @@
 @extends('layouts.main')
 
-<!-- ======= About Section ======= -->
-<section id="about">
-    <div class="container">
-
+<!-- ======= Team Section ======= -->
+<section id="team">
+    <div class="container" data-aos="fade-up">
+        <div class="section-header">
+            <h3 class="section-title">Team</h3>
+            <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+                doloremque</p>
+        </div>
         <div class="row">
-            <div class="col-lg-6">
-                <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                    <div class="pic"><img src="assets/img/Panji Setya.jpeg" alt=""></div>
+                    <h4>Panji Setya Gangga</h4>
+                    <span>
+                        <h6>(20.85.0137)</h6>
+                    </span>
+                    <span>WEBGIS Dev</span>
+                    <div class="social">
+                        <a href=""><i class="bi bi-twitter"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.instagram.com/panjisetyagangga/"><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-6 pt-4 pt-lg-0">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-                <p class="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore
-                    magna aliqua.
-                </p>
-                <ul>
-                    <li><i class="bi bi-check2-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </li>
-                    <li><i class="bi bi-check2-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                    </li>
-                    <li><i class="bi bi-check2-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu
-                        fugiat nulla pariatur.</li>
-                </ul>
-                <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                    voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                    sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
-                </p>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                    <div class="pic"><img src="assets/img/Icha.jpeg" alt=""></div>
+                    <h4>Anissa Nur Aini</h4>
+                    <span>
+                        <h6>(20.85.0130)</h6>
+                    </span>
+                    <span>Web Data Researcher & Concept Project</span>
+                    <div class="social">
+                        <a href=""><i class="bi bi-twitter"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                    <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
+                    <h4>Grinata .Y.</h4>
+                    <span>
+                        <h6>(20.85.0136)</h6>
+                    </span>
+                    <span>Web Data Analyst & Concept Project</span>
+                    <div class="social">
+                        <a href=""><i class="bi bi-twitter"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                    <div class="pic"><img src="assets/img/Joevano.jpeg" alt=""></div>
+                    <h4>Joevano Putra .F.</h4>
+                    <span>
+                        <h6>(21.85.0169)</h6>
+                    </span>
+                    <span>Data Analyst</span>
+                    <div class="social">
+                        <a href=""><i class="bi bi-twitter"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.instagram.com/joevanoputraf_/"><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
             </div>
         </div>
 
     </div>
-</section><!-- End About Section -->
+</section><!-- End Team Section -->
