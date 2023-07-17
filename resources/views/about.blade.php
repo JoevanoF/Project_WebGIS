@@ -5,8 +5,9 @@
     <div class="container" data-aos="fade-up">
         <div class="section-header">
             <h3 class="section-title">Team</h3>
-            <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                doloremque</p>
+            <p class="section-description">The WebGIS project has several team members who fully participate in develop
+                this
+                webGIS</p>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -45,7 +46,7 @@
 
             <div class="col-lg-3 col-md-6">
                 <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
+                    <div class="pic"><img src="assets/img/Grinata.jpeg" alt=""></div>
                     <h4>Grinata .Y.</h4>
                     <span>
                         <h6>(20.85.0136)</h6>

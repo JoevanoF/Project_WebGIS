@@ -63,7 +63,8 @@
                     <li><a class="nav-link scrollto {{ $title === 'Project' ? 'active' : '' }}"
                             href="/project">Project</a>
                     </li>
-                    <li><a class="nav-link scrollto {{ $title === 'About' ? 'active' : '' }}" href="/about">About</a>
+                    <li><a class="nav-link scrollto {{ $title === 'About' ? 'active' : '' }}" href="/about">Our
+                            Team</a>
                     </li>
                     {{-- <li><a class="nav-link scrollto {{ $title === 'Contact Us' ? 'active' : '' }}"
                             href="/contact">Contact
